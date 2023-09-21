@@ -1,7 +1,7 @@
 ### Hi there👋. I am Gustavo Terabe Moy, currently working with backend development and cloud service infrastructure.
 <div align="center">
   <a href="https://github.com/gustavoterabe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoterabe&show_icons=true&theme=onedark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoterabe&show_icons=true&theme=onedark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoterabe&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
